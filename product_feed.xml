@@ -1,0 +1,155 @@
+<DATA>
+
+	<ROW>
+		<id>9df10361-4fd3-4f75-a904-580f58e5a690</id>
+		<title>Heidi Daus</title>
+		<link>www.heididaus.com</link>
+		<description>Heidi Daus Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/a4961bed63af201046d910573afebdaf031662496535474.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>dc43ca16-a2e1-4cfa-b852-9d6d7e478034</id>
+		<title>Import Image Racing</title>
+		<link>www.importimageracing.com</link>
+		<description>iiR Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/ee43fd9e107b46ab7ec29f2323787983f1666652225528.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>e4864236-f05a-409c-83a7-230f52308f33</id>
+		<title>Event Decor Direct</title>
+		<link>www.eventdecordirect.com</link>
+		<description>EDD Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/e6781e3e10310d3a8d69db1813423b410811664923604448.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>d16632c2-df82-47b7-b8c9-49964ce53b4a</id>
+		<title>The Wellness Enterprise</title>
+		<link>www.thewellnessenterprise.com</link>
+		<description>TWE Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/36baca4209768e110cb105a921cc10677581654701063635.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>6d30fa46-dbc3-4296-a64a-60ca567d17af</id>
+		<title>ShopNational</title>
+		<link>www.shopnational.com</link>
+		<description>National Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/c1817134d5b1951d87591b2288914d3f1668444756750.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>48afaec2-012d-4cee-9bd3-e497400e14cc</id>
+		<title>Baker Creek Heirloom Seeds</title>
+		<link>www.rareseeds.com</link>
+		<description>Rare Seeds Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/8690a91438310f4af31083010f3f20867f41669672541862.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>380d35a7-72ed-4742-b74d-2c571429baaf</id>
+		<title>TWE Test</title>
+		<link>tandym-dev-wpstore.projekt.in</link>
+		<description>TWE Test</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/49203b246063cee10c2ffb9bbd74aefc71654547090473.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>c11e0e8d-73c7-404e-8f70-4cc3e31916d9</id>
+		<title>HoneyColony</title>
+		<link>www.honeycolony.com</link>
+		<description>Hive Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/115186f8d13139463b27452e83a4e31e1668182403474.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>dc78065a-6c38-4271-bc5b-a2548a014841</id>
+		<title>Audio46</title>
+		<link>www.audio46.com</link>
+		<description>Audio46 Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/172ad57694a942612f246e3b587a9e561665171797406.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>625e5d73-f5e0-4306-8e29-b1f994c3cc3c</id>
+		<title>Jenson USA</title>
+		<link>www.jensonusa.com</link>
+		<description>Jenson Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/ae5f104cf9dbd501371b3ae18d203fd8a1672075938668.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>076a0bc5-04ea-488b-ada9-e392ec16ab16</id>
+		<title>Homethreads</title>
+		<link>www.homethreads.com</link>
+		<description>Homethreads Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/832e9f6c1e87756730fe1712ab66f9ec1666723454789.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>67c2005e-52a7-4106-babc-c36ff33cf60d</id>
+		<title>City Grounds</title>
+		<link>www.citygrounds.com</link>
+		<description>City Grounds Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/6cf89c3d1192b374f82a8c1f4507655d1668106301423.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>72eb4658-833b-444c-84f3-5feaaa4f0df3</id>
+		<title>Jennifer Bradley</title>
+		<link>www.jenniferbradley.com</link>
+		<description>Jennifer Bradley Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/87110dc0fa52f0f9a72486e4b29fa8cd71657914809455.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>4d26dfa8-f2cb-4c3b-af74-8c6c1f669596</id>
+		<title>BulbAmerica</title>
+		<link>www.bulbamerica.com</link>
+		<description>BulbAmerica Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/bf9c0dd10e919dac25e1451ecc2107016b1662046801408.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>c52e3d6a-b8d6-401c-aa7b-f575bb556c76</id>
+		<title>Powertrain Products</title>
+		<link>www.powertrainproducts.net</link>
+		<description>Powertrain Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/e6f4fe5ef110f53a010bf427c38c104cfbc1664495109451.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>5acc6faa-abbd-476e-b297-92cf2e573c17</id>
+		<title>Sonic Pay</title>
+		<link>www.twetest2.com</link>
+		<description>Sonic Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/ac3b9cb0cb05f8da57d31fdd5516d1c31654098658491.png</image_link>
+	</ROW>
+
+	<ROW>
+		<id>45ebccb1-5521-4cee-8955-8de308e7813b</id>
+		<title>Alligator Performance</title>
+		<link>www.alligatorperformance.com</link>
+		<description>Alligator Pay</description>
+		<price>0</price>
+		<image_link>https://tandym-api.s3.amazonaws.com/77173da42bbe1d3248dd38d072a676a81663015022287.png</image_link>
+	</ROW>
+</DATA>
